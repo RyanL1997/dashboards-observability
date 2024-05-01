@@ -1,5 +1,5 @@
 {
-  "name": "aws_cloudfront",
+  "name": "amazon_cloudfront",
   "version": "1.0.0",
   "displayName": "Amazon CloudFront",
   "description": "Analyze access logs for Amazon CloudFront.",

@@ -1,5 +1,5 @@
 {
-  "name": "aws_elb",
+  "name": "amazon_elb",
   "version": "1.0.0",
   "displayName": "Elastic Load Balancing",
   "description": "Analyze access logs for Elastic Load Balancing.",
