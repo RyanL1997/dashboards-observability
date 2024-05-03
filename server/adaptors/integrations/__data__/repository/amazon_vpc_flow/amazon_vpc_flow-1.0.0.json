@@ -80,7 +80,7 @@
       "version": "1.0.0",
       "extension": "sql",
       "type": "query",
-      "workflows": ["flint-live-dashboards","flint-pre-agg-dashboards"]
+      "workflows": ["queries", "flint-live-dashboards","flint-pre-agg-dashboards"]
     },
     {
       "name": "example_queries",
